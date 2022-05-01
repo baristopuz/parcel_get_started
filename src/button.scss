@@ -1,0 +1,12 @@
+.my-btn{
+    color:red;
+    font-size: 2rem;
+    background-color: yellow;
+    &:hover{
+        color: yellow;
+        background-color: red;
+    }
+}
+.test{
+    color: green;
+}

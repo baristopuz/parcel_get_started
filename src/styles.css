@@ -1,0 +1,6 @@
+h1 {
+    color: hotpink;
+    font-family: cursive;
+    transition: 350ms ease color;
+    background: linear-gradient(to bottom, white, black);
+  }
